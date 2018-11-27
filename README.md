@@ -16,3 +16,7 @@ DOS命令，计算机组成原理，多媒体、数据库操作、计算机网�
 按照新大纲，需要学习的内容有：JAVA语言概论、JAVA数据类型、运算符和表达式、流程控制、类、数组和字符串操作、异常处理、输入输出及文件操作、线程与对象串行化、编写图形用户界面、applet程序设计：J2SDK的下载和操作、JAVA的应用。
 二级office
 按照新大纲，需要学习的内容有 ：计算机的基础知识，Word的功能和使用 ，Excel的功能和使用，PowerPoint的功能和使用。
+
+
+如果有什么问题可以访问我的个人博客   http://blog.sina.cn/dpool/blog/s/blog_8e42cd430102yc0d.html
+http://blog.sina.cn/dpool/blog/s/blog_8e42cd430102yc0d.html
