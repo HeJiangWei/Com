@@ -20,6 +20,7 @@ DOS命令，计算机组成原理，多媒体、数据库操作、计算机网�
 二级office
 按照新大纲，需要学习的内容有 ：计算机的基础知识，Word的功能和使用 ，Excel的功能和使用，PowerPoint的功能和使用。
 
+联系邮箱 378483985@qq.com
 
 如果有什么问题可以访问我的个人博客   http://blog.sina.cn/dpool/blog/s/blog_8e42cd430102yc0d.html
 
