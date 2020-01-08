@@ -1,6 +1,6 @@
 # 联盟竞技app
 
-传送门 http://blog.sina.cn/dpool/blog/s/blog_8e42cd430102yc0d.html
+个人博客地址 http://i.blog.sina.com.cn/blogprofile/profilelatestnote.php
 
 联盟竞技app非常受欢迎的电竞资讯游戏辅助手机软件，最新热门赛事视频在这里每日都在更新，并且随时都可以看到最新的战队信息，英雄联盟，王者荣耀，DOTA2以及各种热门游戏竞技赛事都在这里播放哦！
 
@@ -23,5 +23,5 @@
 
 联系邮箱 378483985@qq.com
 
-如果有什么问题可以访问我的个人博客   http://blog.sina.cn/dpool/blog/s/blog_8e42cd430102yc0d.html
+如果有什么问题可以访问我的个人博客   http://i.blog.sina.com.cn/blogprofile/profilelatestnote.php
 
